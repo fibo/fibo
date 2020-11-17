@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **fibo/fibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +11,19 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## ⚡ Fun fact
+
+> I am Fibonacci's reincarnation
+
+When I was four years old I knew by heart the multiplication table from 1 to 10. When I discovered that it is also possible to go further with number 11 I was really excited and figured out by my self the multiplication table for number 12 which was my favourite one.
+
+I always felt passionate about *Mathematics* the **Queen of Science**, in particular *Geometry* and *Number Theory*.
+
+Many years later I realized this coincidence, as you can see in the photos below I look similar to Fibonacci.
+
+Even if I joined the *Pythagorean community* in Crotone, nowadays I have no issue eating beans.
+
+![Leonardo](media/fibonacci.jpg) ![Gianluca](media/gianluca.jpg)
+
