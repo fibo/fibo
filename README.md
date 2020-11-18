@@ -27,3 +27,4 @@ Even if I joined the *Pythagorean community* in Crotone, nowadays I have no issu
 
 ![Leonardo](media/fibonacci.jpg) ![Gianluca](media/gianluca.jpg)
 
+By the way, the famous *Fibonacci sequence* was introduced in his book *Liber Abaci* just as an excercise and it comes from Indian Mathematics. Actually, the most brilliant result of Fibonacci was to import Arabic numbers to Europe, otherwise my cell number would be *III IV IX VI I IV IX I VI* ... ehm last digit is 0 so I cannot write it down as Roman number.
